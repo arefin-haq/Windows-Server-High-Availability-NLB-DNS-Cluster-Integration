@@ -1,6 +1,6 @@
-===============================================================================
+
      WINDOWS SERVER HIGH AVAILABILITY: NLB & DNS CLUSTER INTEGRATION
-===============================================================================
+
 
 [ PROJECT OVERVIEW ]
 A professional implementation of a Network Load Balancing (NLB) Cluster on 
@@ -32,4 +32,3 @@ featuring a central Domain Controller and load-balanced IIS nodes.
 * For production, use Port 443 (HTTPS) with valid SSL/TLS certificates.
 
 System Environment: Windows Server 2022
-===============================================================================
